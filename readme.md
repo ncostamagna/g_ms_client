@@ -5,7 +5,7 @@ add meta in responses
 ```json
 {
 	"status": 200,
-	"data": [....],
+	"data": [...],
 	"meta": {
 		"page": 1,
 		"per_page": 3,
